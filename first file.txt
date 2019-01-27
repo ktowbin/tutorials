@@ -7,5 +7,3 @@ working copy (tutorial 8)
 another change (tutorial 9)
 
 changing for tutorial 13
-
-heyhey
